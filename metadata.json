@@ -1,0 +1,6 @@
+{
+  "name": "カタカナ学習 - Katakana Master",
+  "description": "タブレット・PC対応のカタカナ学習アプリ。ローマ字に対応するカタカナをクイズ形式で学べます。文字モード（ア・カ行、サ・タ行等）と単語モード（100単語・スペイン語訳付き）に対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
